@@ -1,0 +1,17 @@
+.home-main-page {
+    display: block;
+    align-items: center;
+    text-align: center;
+}
+
+p{
+	font-size: 30px;
+	font-family: "STARWARS";
+	letter-spacing: 2px;
+}
+
+h1{
+	font-size: 50px;
+	font-family: "STARWARS";
+	letter-spacing: 2px;
+}

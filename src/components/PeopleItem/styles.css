@@ -1,0 +1,32 @@
+@font-face {
+	font-family: "STARWARS";
+	src: url("../../../STARWARS/STARWARS.eot?") format("eot"),
+	url("../../../STARWARS/STARWARS.woff") format("woff"),
+	url("../../../STARWARS/STARWARS.ttf") format("truetype"),
+	url("../../../STARWARS/STARWARS.svg#STARWARS") format("svg");
+	font-weight: normal;
+	font-style: normal;
+ } 
+
+.list_item {
+	display: flex;
+	width: 100%;
+	padding: 10px;
+	border-radius: 20px;
+	justify-content: center;
+	cursor: pointer;
+}
+
+p{
+	font-size: 50px;
+	font-family: "STARWARS";
+	letter-spacing: 2px;
+}
+
+.containerStyle {
+	height: 200px;
+	width: 378px;
+	padding: 48px;
+	overflow: hidden;
+	text-align: center;
+};
