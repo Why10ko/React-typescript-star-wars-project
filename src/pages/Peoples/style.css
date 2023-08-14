@@ -3,7 +3,7 @@
 	display: flex;
 	justify-content: center;
 	overflow-y: scroll;
-	height: 85vh;
+	height: 75vh;
 	min-width: 500px;
 }
 
